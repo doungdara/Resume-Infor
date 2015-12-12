@@ -121,9 +121,8 @@ $(document).ready(function (){
 				  }
 			  ]
 				  
-	  var yourLatitude = 40.758895;
-	  var yourLongitude = -73.985131;
-	  
+	  var yourLatitude = 11.564669;
+	  var yourLongitude = 104.915149;
 	  var myOptions = {
 		zoom: 14,
 		center: new google.maps.LatLng(yourLatitude,yourLongitude-0.01),
