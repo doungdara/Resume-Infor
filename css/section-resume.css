@@ -77,13 +77,12 @@
   .resume-item-education {
     position: relative;
     border-left: 1px solid #eaeaea;
-    padding: 30px 0;
   }
 
   .education-event {
     position: relative;
     padding-left: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 15px;
   }
   .education-event-quote{
     font-size: 10px;
